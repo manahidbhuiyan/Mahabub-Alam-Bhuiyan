@@ -2,17 +2,14 @@
 Hi there, I am Mahabub Alam Bhuiyan 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Wev Application
 - 🌱 I’m currently learning everything🤣
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything
-- 📫 How to reach me: <a href="https://www.facebook.com/manahid.bhuiyan/">Facebook</a> <a href="https://www.instagram.com/manahid_bhuiyan/?hl=en">Instagram</a>
-<a href="https://www.linkedin.com/in/manahidbhuiyan/">linkedin</a> 
+- 📫 How to reach me: <a href="https://www.facebook.com/manahid.bhuiyan/">Facebook-manahid.bhuiyan</a> , <a href="https://www.instagram.com/manahid_bhuiyan/?hl=en">Instagram-manahid_bhuiyan</a> , <a href="https://www.linkedin.com/in/manahidbhuiyan/">linkedin-manahidbhuiyan</a> , <a href="https://twitter.com/manahid_bhuiyan">twitter-manahid_bhuiyan</a> 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to play 
+- ⚡ Fun fact: I love to travel and wish one day i will travel all countries in the world
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahabub-Alam-Bhuiyan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/manahidbhuiyan//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/manahid.bhuiyan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/manahid_bhuiyan/?hl=en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/manahid_bhuiyan)  
