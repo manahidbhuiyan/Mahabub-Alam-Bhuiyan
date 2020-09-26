@@ -1,6 +1,5 @@
 
-Hi there, I am Mahabub Alam Bhuiyan 👋
-
+## Hi there, I am Mahabub Alam Bhuiyan 👋
 
 - 🔭 I’m currently working on Wev Application
 - 🌱 I’m currently learning everything🤣
@@ -10,15 +9,17 @@ Hi there, I am Mahabub Alam Bhuiyan 👋
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to travel and wish one day i will travel all countries in the world
-- Skills
+## Skills
 - Html , CSS , Bootstrap
 - Javascript
 - vue.js , Jquery
-
+## Languages and Tools:
+<img src="https://img.icons8.com/plasticine/2x/visual-studio-code-2019.png"> <a href="https://img.icons8.com/plasticine/2x/visual-studio-code-2019.png">
+ 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahabub-Alam-Bhuiyan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/manahidbhuiyan//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/manahid.bhuiyan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/manahid_bhuiyan/?hl=en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/manahid_bhuiyan)  
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahabub-Alam-Bhuiyan)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahabub-Alam-Bhuiyan)](https://github.com/anuraghazra/github-readme-stats) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahabub-Alam-Bhuiyan&show_icons=true)  
 ![Profile views](https://gpvc.arturio.dev/Mahabub-Alam-Bhuiyan)  
 
