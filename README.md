@@ -9,7 +9,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to travel and wish one day i will travel all countries in the world
-## Skills
+## Skills :
 - Html , CSS , Bootstrap
 - Javascript
 - vue.js , Jquery
