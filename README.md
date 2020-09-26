@@ -11,7 +11,6 @@ Hi there, I am Mahabub Alam Bhuiyan 👋
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to travel and wish one day i will travel all countries in the world
 - Skills
-<hr>
 - Html , CSS , Bootstrap
 - Javascript
 - vue.js , Jquery
