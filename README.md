@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="https://www.facebook.com/manahid.bhuiyan/">Facebook-manahidbhuiyan</a> , <a href="https://www.instagram.com/manahidbhuiyan/?hl=en">Instagram-manahid_bhuiyan</a> , <a href="https://www.linkedin.com/in/manahidbhuiyan/">linkedin-manahidbhuiyan</a> , <a href="https://twitter.com/manahidbhuiyan">twitter-manahid_bhuiyan</a> 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to travel and wish one day i will travel all countries in the world
 ## Skills :
