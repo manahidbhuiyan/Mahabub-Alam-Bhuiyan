@@ -22,7 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahabub-Alam-Bhuiyan)](https://github.com/anuraghazra/github-readme-stats) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahabub-Alam-Bhuiyan&show_icons=true)  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Mahabub's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manahidbhuiyan)](https://wakatime.com/@manahidbhuiyana)
 ![Profile views](https://gpvc.arturio.dev/Mahabub-Alam-Bhuiyan)  
 
 
